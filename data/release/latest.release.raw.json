@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 21221242,
       "digest": "sha256:232c5f20fb397981143ecb150bcb268e3131809c144e8a3368d8d81a0d2406f4",
-      "download_count": 2379,
+      "download_count": 2381,
       "created_at": "2026-08-30T08:44:21Z",
       "updated_at": "2026-08-30T08:44:23Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_linux_amd64.tar.gz"
