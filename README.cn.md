@@ -12,6 +12,18 @@ Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 x install timoni
 ```
 
+## 代码规模
+
+合计: **35,506** 行代码（覆盖前 5 种语言、共 **221** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 28,607 | 5,334 | 4,941 | 211 |
+| Yaml | 6,073 | 17 | 12 | 5 |
+| Json | 266 | 0 | 0 | 2 |
+| Css | 192 | 11 | 46 | 1 |
+| Makefile | 138 | 10 | 39 | 2 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/stefanprodan/timoni>
@@ -23,6 +35,25 @@ x install timoni
 - **最新版本**: `v0.34.0` (2026-08-30)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 10 个
+
+## 流行度
+
+- **Star**: 2,011 · **Fork**: 88 · **开放 issue**: 142 · **贡献者**: 35
+
+## 累计统计
+
+- **发布数**: 55 · **已合并 PR**: 412 · **开放 PR**: 3 · **已关闭 issue**: 111 · **开放 issue**: 31 · **提交数**: 1162
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 4 | 30 | 2 | 0 | 1 | 54 |
+| last60d | 2026-07-12 | 8 | 86 | 3 | 3 | 3 | 155 |
+| 90d | 2026-06-12 | 9 | 93 | 3 | 3 | 3 | 165 |
+| last180d | 2026-03-14 | 9 | 93 | 3 | 3 | 3 | 165 |
+| 360d | 2025-09-15 | 10 | 97 | 3 | 7 | 3 | 169 |
+| last720d | 2024-09-20 | 16 | 133 | 3 | 24 | 10 | 353 |
 
 ## Release 资产
 
@@ -39,33 +70,16 @@ x install timoni
 | [timoni_0.34.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_windows_amd64.zip) | 20.7 MiB | `native/win/x64` |
 | [timoni_0.34.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_windows_arm64.zip) | 18.1 MiB | `native/win/arm64` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 2,011 · **Fork**: 88 · **开放 issue**: 142 · **贡献者**: 35
+在 [repology.org](https://repology.org/project/timoni) 上共有 **19** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**15** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 55 · **已合并 PR**: 412 · **开放 PR**: 3 · **已关闭 issue**: 111 · **开放 issue**: 31 · **提交数**: 1162
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 30 | 2 | 0 | 1 | 54 |
-| 90d | 2026-06-12 | 9 | 93 | 3 | 3 | 3 | 165 |
-| 360d | 2025-09-15 | 10 | 97 | 3 | 7 | 3 | 169 |
-
-## 代码规模
-
-合计: **35,506** 行代码（覆盖前 5 种语言、共 **221** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 28,607 | 5,334 | 4,941 | 211 |
-| Yaml | 6,073 | 17 | 12 | 5 |
-| Json | 266 | 0 | 0 | 2 |
-| Css | 192 | 11 | 46 | 1 |
-| Makefile | 138 | 10 | 39 | 2 |
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.34.0` | ✅ latest |
+| Nix unstable | `0.31.0` | ⚠️ outdated |
+| Alpine edge | `0.23.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.33.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -76,4 +90,4 @@ timoni 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T15:55:00Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:27:09Z._
