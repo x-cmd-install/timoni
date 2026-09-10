@@ -4,7 +4,7 @@
 
 Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 
-![timoni](https://repo.x-cmd.io/timoni.svg)
+![timoni](https://repo.x-cmd.io/timoni.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,21 @@ x install timoni
 - **最新版本**: `v0.34.0` (2026-08-30)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-08-30T08:44:26Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [timoni_0.34.0_checksums.txt](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_checksums.txt) | 788 B | `other` |
+| [timoni_0.34.0_darwin_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_darwin_amd64.tar.gz) | 20.6 MiB | `native/darwin/x64` |
+| [timoni_0.34.0_darwin_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_darwin_arm64.tar.gz) | 18.7 MiB | `native/darwin/arm64` |
+| [timoni_0.34.0_linux_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_linux_amd64.tar.gz) | 20.2 MiB | `native/linux/x64` |
+| [timoni_0.34.0_linux_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_linux_arm64.tar.gz) | 17.9 MiB | `native/linux/arm64` |
+| [timoni_0.34.0_provenance.intoto.jsonl](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_provenance.intoto.jsonl) | 21.9 KiB | `other` |
+| [timoni_0.34.0_sbom.spdx.json](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_sbom.spdx.json) | 505.2 KiB | `other` |
+| [timoni_0.34.0_source_code.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_source_code.tar.gz) | 1.3 MiB | `native/unknown` |
+| [timoni_0.34.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_windows_amd64.zip) | 20.7 MiB | `native/win/x64` |
+| [timoni_0.34.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_windows_arm64.zip) | 18.1 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -62,4 +76,4 @@ timoni 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T01:58:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:55:00Z._
