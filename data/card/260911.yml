@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.34.0"
   latestRelease: "v0.34.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T01:57:17Z
+  collectedAt: 2026-09-11T20:56:33Z
 timeline:
   created: 2023-02-11
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-30
   lastPrerelease: 
 popularity:
-  star: 2011
+  star: 2012
   watcher: 21
   fork: 88
   release: 55
@@ -86,7 +86,7 @@ total:
   commit: 1162
 ---
 path: /home/runner/.x-repo/github.com/stefanprodan/timoni
-collectedAt: 2026-09-11T01:57:18Z
+collectedAt: 2026-09-11T20:56:35Z
 loc:
   Go:
     code: 28607
