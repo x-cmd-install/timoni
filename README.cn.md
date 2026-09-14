@@ -38,7 +38,7 @@ x install timoni
 
 ## 流行度
 
-- **Star**: 2,012 · **Fork**: 88 · **开放 issue**: 142 · **贡献者**: 35
+- **Star**: 2,013 · **Fork**: 88 · **开放 issue**: 142 · **贡献者**: 35
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install timoni
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 26 | 2 | 0 | 0 | 41 |
-| last60d | 2026-07-15 | 8 | 86 | 3 | 3 | 3 | 154 |
-| 90d | 2026-06-15 | 9 | 93 | 3 | 3 | 3 | 163 |
-| last180d | 2026-03-17 | 9 | 93 | 3 | 3 | 3 | 165 |
-| 360d | 2025-09-18 | 10 | 97 | 3 | 7 | 3 | 169 |
-| last720d | 2024-09-23 | 16 | 133 | 3 | 23 | 10 | 353 |
+| 30d | 2026-08-15 | 3 | 25 | 2 | 0 | 0 | 41 |
+| last60d | 2026-07-16 | 8 | 86 | 3 | 2 | 3 | 154 |
+| 90d | 2026-06-16 | 9 | 93 | 3 | 3 | 3 | 163 |
+| last180d | 2026-03-18 | 9 | 93 | 3 | 3 | 3 | 165 |
+| 360d | 2025-09-19 | 10 | 97 | 3 | 7 | 3 | 169 |
+| last720d | 2024-09-24 | 16 | 133 | 3 | 23 | 10 | 353 |
 
 ## Release 资产
 
@@ -70,17 +70,6 @@ x install timoni
 | [timoni_0.34.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_windows_amd64.zip) | 20.7 MiB | `native/win/x64` |
 | [timoni_0.34.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_windows_arm64.zip) | 18.1 MiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/timoni) 上共有 **19** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**15** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.34.0` | ✅ latest |
-| Nix unstable | `0.31.0` | ⚠️ outdated |
-| Alpine edge | `0.23.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.33.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 timoni 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `timoni` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -90,4 +79,4 @@ timoni 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T01:56:13Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T02:14:38Z._
