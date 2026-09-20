@@ -4,7 +4,7 @@
 
 Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 
-![timoni](https://repo.x-cmd.io/timoni.svg?lang=zh)
+[![x-cmd/install — timoni Code Quality Monitoring Repo Card](https://repo.x-cmd.io/timoni.svg?lang=zh)](https://x-cmd.com/install/timoni)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install timoni
 
 ## 流行度
 
-- **Star**: 2,015 · **Fork**: 89 · **开放 issue**: 143 · **贡献者**: 35
+- **Star**: 2,016 · **Fork**: 89 · **开放 issue**: 143 · **贡献者**: 35
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install timoni
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 20 | 3 | 0 | 1 | 41 |
-| last60d | 2026-07-20 | 8 | 85 | 4 | 2 | 3 | 154 |
-| 90d | 2026-06-20 | 9 | 92 | 4 | 3 | 4 | 163 |
-| last180d | 2026-03-22 | 9 | 93 | 4 | 3 | 4 | 165 |
-| 360d | 2025-09-23 | 10 | 97 | 4 | 7 | 4 | 169 |
-| last720d | 2024-09-28 | 16 | 133 | 4 | 23 | 11 | 353 |
+| 30d | 2026-08-21 | 2 | 17 | 3 | 0 | 1 | 8 |
+| last60d | 2026-07-22 | 8 | 84 | 4 | 2 | 3 | 140 |
+| 90d | 2026-06-22 | 9 | 92 | 4 | 3 | 4 | 163 |
+| last180d | 2026-03-24 | 9 | 93 | 4 | 3 | 4 | 165 |
+| 360d | 2025-09-25 | 10 | 97 | 4 | 7 | 4 | 169 |
+| last720d | 2024-09-30 | 16 | 133 | 4 | 23 | 11 | 353 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ timoni 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T02:04:05Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T02:14:01Z._
