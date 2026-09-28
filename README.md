@@ -38,22 +38,22 @@ Total: **35,506** lines of code across **221** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,016 · **Forks**: 89 · **Open issues**: 143 · **Contributors**: 35
+- **Stars**: 2,017 · **Forks**: 90 · **Open issues**: 143 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 412 · **Open PRs**: 4 · **Closed issues**: 111 · **Open issues**: 32 · **Commits**: 1162
+- **Releases**: 55 · **Merged PRs**: 412 · **Open PRs**: 5 · **Closed issues**: 111 · **Open issues**: 32 · **Commits**: 1162
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 1 | 6 | 3 | 0 | 1 | 1 |
-| last60d | 2026-07-29 | 7 | 80 | 4 | 2 | 3 | 81 |
-| 90d | 2026-06-29 | 9 | 88 | 4 | 3 | 4 | 155 |
-| last180d | 2026-03-31 | 9 | 93 | 4 | 3 | 4 | 165 |
-| 360d | 2025-10-02 | 10 | 97 | 4 | 7 | 4 | 169 |
-| last720d | 2024-10-07 | 16 | 131 | 4 | 23 | 11 | 347 |
+| 30d | 2026-08-29 | 1 | 6 | 4 | 0 | 1 | 1 |
+| last60d | 2026-07-30 | 7 | 80 | 5 | 2 | 3 | 81 |
+| 90d | 2026-06-30 | 9 | 87 | 5 | 3 | 4 | 155 |
+| last180d | 2026-04-01 | 9 | 93 | 5 | 3 | 4 | 165 |
+| 360d | 2025-10-03 | 10 | 97 | 5 | 7 | 4 | 169 |
+| last720d | 2024-10-08 | 16 | 131 | 5 | 23 | 11 | 347 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for timoni lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T02:23:17Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T02:27:33Z._
