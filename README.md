@@ -14,11 +14,11 @@ x install timoni
 
 ## Code insight
 
-Total: **35,506** lines of code across **221** files in the top 5 languages.
+Total: **35,534** lines of code across **221** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 28,607 | 5,334 | 4,941 | 211 |
+| Go | 28,635 | 5,336 | 4,945 | 211 |
 | Yaml | 6,073 | 17 | 12 | 5 |
 | Json | 266 | 0 | 0 | 2 |
 | Css | 192 | 11 | 46 | 1 |
@@ -32,43 +32,44 @@ Total: **35,506** lines of code across **221** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.34.0` (2026-08-30)
-- **Last commit**: 2026-09-09
-- **Assets in release**: 10
+- **Latest**: `v0.35.0` (2026-09-28)
+- **Last commit**: 2026-09-28
+- **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 2,017 · **Forks**: 90 · **Open issues**: 143 · **Contributors**: 35
+- **Stars**: 2,019 · **Forks**: 90 · **Open issues**: 143 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 412 · **Open PRs**: 5 · **Closed issues**: 111 · **Open issues**: 32 · **Commits**: 1162
+- **Releases**: 56 · **Merged PRs**: 417 · **Open PRs**: 2 · **Closed issues**: 112 · **Open issues**: 31 · **Commits**: 1174
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 6 | 4 | 0 | 1 | 1 |
-| last60d | 2026-07-30 | 7 | 80 | 5 | 2 | 3 | 81 |
-| 90d | 2026-06-30 | 9 | 87 | 5 | 3 | 4 | 155 |
-| last180d | 2026-04-01 | 9 | 93 | 5 | 3 | 4 | 165 |
-| 360d | 2025-10-03 | 10 | 97 | 5 | 7 | 4 | 169 |
-| last720d | 2024-10-08 | 16 | 131 | 5 | 23 | 11 | 347 |
+| 30d | 2026-08-30 | 2 | 8 | 1 | 1 | 0 | 8 |
+| last60d | 2026-07-31 | 8 | 73 | 2 | 3 | 2 | 88 |
+| 90d | 2026-07-01 | 10 | 92 | 2 | 4 | 3 | 162 |
+| last180d | 2026-04-02 | 10 | 98 | 2 | 4 | 3 | 172 |
+| 360d | 2025-10-04 | 11 | 102 | 2 | 8 | 3 | 176 |
+| last720d | 2024-10-09 | 17 | 136 | 2 | 23 | 10 | 359 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [timoni_0.34.0_checksums.txt](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_checksums.txt) | 788 B | `other` |
-| [timoni_0.34.0_darwin_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_darwin_amd64.tar.gz) | 20.6 MiB | `native/darwin/x64` |
-| [timoni_0.34.0_darwin_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_darwin_arm64.tar.gz) | 18.7 MiB | `native/darwin/arm64` |
-| [timoni_0.34.0_linux_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_linux_amd64.tar.gz) | 20.2 MiB | `native/linux/x64` |
-| [timoni_0.34.0_linux_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_linux_arm64.tar.gz) | 17.9 MiB | `native/linux/arm64` |
-| [timoni_0.34.0_provenance.intoto.jsonl](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_provenance.intoto.jsonl) | 21.9 KiB | `other` |
-| [timoni_0.34.0_sbom.spdx.json](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_sbom.spdx.json) | 505.2 KiB | `other` |
-| [timoni_0.34.0_source_code.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_source_code.tar.gz) | 1.3 MiB | `native/unknown` |
-| [timoni_0.34.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_windows_amd64.zip) | 20.7 MiB | `native/win/x64` |
-| [timoni_0.34.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.34.0/timoni_0.34.0_windows_arm64.zip) | 18.1 MiB | `native/win/arm64` |
+| [packslip.sigstore.json](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/packslip.sigstore.json) | 17.1 KiB | `other` |
+| [timoni_0.35.0_checksums.txt](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_checksums.txt) | 788 B | `other` |
+| [timoni_0.35.0_darwin_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_darwin_amd64.tar.gz) | 21.0 MiB | `native/darwin/x64` |
+| [timoni_0.35.0_darwin_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_darwin_arm64.tar.gz) | 19.1 MiB | `native/darwin/arm64` |
+| [timoni_0.35.0_linux_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_linux_amd64.tar.gz) | 20.7 MiB | `native/linux/x64` |
+| [timoni_0.35.0_linux_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_linux_arm64.tar.gz) | 18.3 MiB | `native/linux/arm64` |
+| [timoni_0.35.0_provenance.intoto.jsonl](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_provenance.intoto.jsonl) | 22.0 KiB | `other` |
+| [timoni_0.35.0_sbom.spdx.json](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_sbom.spdx.json) | 535.8 KiB | `other` |
+| [timoni_0.35.0_source_code.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_source_code.tar.gz) | 1.3 MiB | `native/unknown` |
+| [timoni_0.35.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_windows_amd64.zip) | 21.2 MiB | `native/win/x64` |
+| [timoni_0.35.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_windows_arm64.zip) | 18.4 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -79,4 +80,4 @@ Install metadata for timoni lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T02:27:33Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T03:10:41Z._
