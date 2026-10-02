@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 17486,
       "digest": "sha256:39120e5873f55ddfaa3bf3c0b50e7bd5f302950d97e1b83505418bf6eeefdf83",
-      "download_count": 13,
+      "download_count": 24,
       "created_at": "2026-09-28T13:27:13Z",
       "updated_at": "2026-09-28T13:27:13Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.35.0/packslip.sigstore.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 788,
       "digest": "sha256:9b3c14d7e52c3afc0c329dcde810de75330f63ff6f84332d65e1773e0123c12e",
-      "download_count": 1563,
+      "download_count": 1794,
       "created_at": "2026-09-28T13:26:51Z",
       "updated_at": "2026-09-28T13:26:51Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 22053033,
       "digest": "sha256:42ca36f5b368535fad5ad0932ca2e0457cfd56a6a6141289e5938211962d68be",
-      "download_count": 29,
+      "download_count": 37,
       "created_at": "2026-09-28T13:26:48Z",
       "updated_at": "2026-09-28T13:26:49Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 20043798,
       "digest": "sha256:68bd5ae946773cdc5687d2c024776d5f1be9012de9c6e21ed821ea97800b235c",
-      "download_count": 61,
+      "download_count": 80,
       "created_at": "2026-09-28T13:26:48Z",
       "updated_at": "2026-09-28T13:26:49Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 21677401,
       "digest": "sha256:97acb4d8f6d3681c090ed8f048fe47d73c149a6d373974377092edd9cd5a852d",
-      "download_count": 1597,
+      "download_count": 1849,
       "created_at": "2026-09-28T13:26:48Z",
       "updated_at": "2026-09-28T13:26:49Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 19205097,
       "digest": "sha256:8df20f8f455c78357cf8365c36bccb19201c10e70d758adc3b2ddcbd8928d833",
-      "download_count": 32,
+      "download_count": 44,
       "created_at": "2026-09-28T13:26:48Z",
       "updated_at": "2026-09-28T13:26:49Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_linux_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 22511,
       "digest": "sha256:9553f73edfddfd63052357c8c2570e25f7c87832e7b3e8c6eba56ec555c517c3",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-28T13:28:23Z",
       "updated_at": "2026-09-28T13:28:23Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_provenance.intoto.jsonl"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 22191322,
       "digest": "sha256:57279e44caf49bf99f9cc8b93baa5eebf8c82e2c935ce27e90f1e00d299c47bb",
-      "download_count": 54,
+      "download_count": 65,
       "created_at": "2026-09-28T13:26:50Z",
       "updated_at": "2026-09-28T13:26:51Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_windows_amd64.zip"
