@@ -14,11 +14,11 @@ x install timoni
 
 ## Code insight
 
-Total: **35,534** lines of code across **221** files in the top 5 languages.
+Total: **35,689** lines of code across **221** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 28,635 | 5,336 | 4,945 | 211 |
+| Go | 28,790 | 5,351 | 4,961 | 211 |
 | Yaml | 6,073 | 17 | 12 | 5 |
 | Json | 266 | 0 | 0 | 2 |
 | Css | 192 | 11 | 46 | 1 |
@@ -32,8 +32,8 @@ Total: **35,534** lines of code across **221** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.35.0` (2026-09-28)
-- **Last commit**: 2026-09-28
+- **Latest**: `v0.36.0` (2026-10-21)
+- **Last commit**: 2026-10-21
 - **Assets in release**: 11
 
 ## Popularity
@@ -42,34 +42,34 @@ Total: **35,534** lines of code across **221** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 417 · **Open PRs**: 6 · **Closed issues**: 112 · **Open issues**: 32 · **Commits**: 1174
+- **Releases**: 57 · **Merged PRs**: 419 · **Open PRs**: 2 · **Closed issues**: 113 · **Open issues**: 31 · **Commits**: 1182
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 3 | 4 | 0 | 1 | 6 |
-| last60d | 2026-08-22 | 3 | 19 | 5 | 1 | 1 | 17 |
-| 90d | 2026-07-23 | 9 | 88 | 6 | 3 | 3 | 153 |
-| last180d | 2026-04-24 | 10 | 98 | 6 | 4 | 4 | 172 |
-| 360d | 2025-10-26 | 11 | 102 | 6 | 7 | 4 | 176 |
-| last720d | 2024-10-31 | 16 | 132 | 6 | 22 | 11 | 349 |
+| 30d | 2026-09-22 | 2 | 5 | 0 | 1 | 0 | 12 |
+| last60d | 2026-08-23 | 3 | 21 | 1 | 2 | 0 | 23 |
+| 90d | 2026-07-24 | 9 | 90 | 2 | 4 | 2 | 159 |
+| last180d | 2026-04-25 | 11 | 100 | 2 | 5 | 3 | 178 |
+| 360d | 2025-10-27 | 12 | 104 | 2 | 8 | 3 | 182 |
+| last720d | 2024-11-01 | 17 | 134 | 2 | 23 | 10 | 357 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [packslip.sigstore.json](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/packslip.sigstore.json) | 17.1 KiB | `other` |
-| [timoni_0.35.0_checksums.txt](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_checksums.txt) | 788 B | `other` |
-| [timoni_0.35.0_darwin_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_darwin_amd64.tar.gz) | 21.0 MiB | `native/darwin/x64` |
-| [timoni_0.35.0_darwin_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_darwin_arm64.tar.gz) | 19.1 MiB | `native/darwin/arm64` |
-| [timoni_0.35.0_linux_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_linux_amd64.tar.gz) | 20.7 MiB | `native/linux/x64` |
-| [timoni_0.35.0_linux_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_linux_arm64.tar.gz) | 18.3 MiB | `native/linux/arm64` |
-| [timoni_0.35.0_provenance.intoto.jsonl](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_provenance.intoto.jsonl) | 22.0 KiB | `other` |
-| [timoni_0.35.0_sbom.spdx.json](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_sbom.spdx.json) | 535.8 KiB | `other` |
-| [timoni_0.35.0_source_code.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_source_code.tar.gz) | 1.3 MiB | `native/unknown` |
-| [timoni_0.35.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_windows_amd64.zip) | 21.2 MiB | `native/win/x64` |
-| [timoni_0.35.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.35.0/timoni_0.35.0_windows_arm64.zip) | 18.4 MiB | `native/win/arm64` |
+| [packslip.sigstore.json](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/packslip.sigstore.json) | 17.1 KiB | `other` |
+| [timoni_0.36.0_checksums.txt](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_checksums.txt) | 788 B | `other` |
+| [timoni_0.36.0_darwin_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_darwin_amd64.tar.gz) | 20.9 MiB | `native/darwin/x64` |
+| [timoni_0.36.0_darwin_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_darwin_arm64.tar.gz) | 19.0 MiB | `native/darwin/arm64` |
+| [timoni_0.36.0_linux_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_linux_amd64.tar.gz) | 20.6 MiB | `native/linux/x64` |
+| [timoni_0.36.0_linux_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_linux_arm64.tar.gz) | 18.2 MiB | `native/linux/arm64` |
+| [timoni_0.36.0_provenance.intoto.jsonl](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_provenance.intoto.jsonl) | 22.1 KiB | `other` |
+| [timoni_0.36.0_sbom.spdx.json](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_sbom.spdx.json) | 532.0 KiB | `other` |
+| [timoni_0.36.0_source_code.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_source_code.tar.gz) | 1.3 MiB | `native/unknown` |
+| [timoni_0.36.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_windows_amd64.zip) | 21.0 MiB | `native/win/x64` |
+| [timoni_0.36.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for timoni lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T02:25:33Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T02:21:01Z._
