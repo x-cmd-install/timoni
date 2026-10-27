@@ -42,18 +42,18 @@ Total: **35,689** lines of code across **221** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 419 · **Open PRs**: 2 · **Closed issues**: 113 · **Open issues**: 31 · **Commits**: 1182
+- **Releases**: 57 · **Merged PRs**: 419 · **Open PRs**: 3 · **Closed issues**: 113 · **Open issues**: 31 · **Commits**: 1182
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 5 | 0 | 1 | 0 | 6 |
-| last60d | 2026-08-27 | 3 | 13 | 1 | 2 | 0 | 15 |
-| 90d | 2026-07-28 | 9 | 87 | 2 | 4 | 2 | 110 |
-| last180d | 2026-04-29 | 11 | 100 | 2 | 5 | 3 | 178 |
-| 360d | 2025-10-31 | 12 | 104 | 2 | 8 | 3 | 182 |
-| last720d | 2024-11-05 | 17 | 134 | 2 | 23 | 10 | 357 |
+| 30d | 2026-09-27 | 2 | 4 | 1 | 1 | 0 | 6 |
+| last60d | 2026-08-28 | 3 | 13 | 2 | 2 | 0 | 15 |
+| 90d | 2026-07-29 | 9 | 87 | 3 | 4 | 2 | 110 |
+| last180d | 2026-04-30 | 11 | 100 | 3 | 5 | 3 | 178 |
+| 360d | 2025-11-01 | 12 | 104 | 3 | 8 | 3 | 182 |
+| last720d | 2024-11-06 | 17 | 134 | 3 | 23 | 10 | 357 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for timoni lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T02:12:07Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T02:48:45Z._
