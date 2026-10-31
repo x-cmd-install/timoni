@@ -14,11 +14,11 @@ x install timoni
 
 ## 代码洞察
 
-合计: **35,689** 行代码（覆盖前 5 种语言、共 **221** 个文件）。
+合计: **36,010** 行代码（覆盖前 5 种语言、共 **222** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 28,790 | 5,351 | 4,961 | 211 |
+| Go | 29,111 | 5,409 | 5,014 | 212 |
 | Yaml | 6,073 | 17 | 12 | 5 |
 | Json | 266 | 0 | 0 | 2 |
 | Css | 192 | 11 | 46 | 1 |
@@ -32,53 +32,53 @@ x install timoni
 
 ## 发布
 
-- **最新版本**: `v0.36.0` (2026-10-21)
-- **最近提交**: 2026-10-21
+- **最新版本**: `v0.37.0` (2026-10-30)
+- **最近提交**: 2026-10-30
 - **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 2,022 · **Fork**: 90 · **开放 issue**: 145 · **贡献者**: 36
+- **Star**: 2,021 · **Fork**: 90 · **开放 issue**: 145 · **贡献者**: 36
 
 ## 累计统计
 
-- **发布数**: 57 · **已合并 PR**: 419 · **开放 PR**: 3 · **已关闭 issue**: 113 · **开放 issue**: 32 · **提交数**: 1182
+- **发布数**: 58 · **已合并 PR**: 422 · **开放 PR**: 2 · **已关闭 issue**: 114 · **开放 issue**: 31 · **提交数**: 1190
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 2 | 1 | 1 | 1 | 6 |
-| last60d | 2026-08-31 | 2 | 9 | 2 | 2 | 1 | 15 |
-| 90d | 2026-08-01 | 8 | 59 | 3 | 4 | 3 | 110 |
-| last180d | 2026-05-03 | 11 | 100 | 3 | 5 | 4 | 178 |
-| 360d | 2025-11-04 | 12 | 103 | 3 | 8 | 4 | 182 |
-| last720d | 2024-11-09 | 17 | 134 | 3 | 23 | 11 | 357 |
+| 30d | 2026-10-01 | 2 | 5 | 0 | 1 | 0 | 11 |
+| last60d | 2026-09-01 | 3 | 12 | 1 | 3 | 0 | 20 |
+| 90d | 2026-08-02 | 9 | 60 | 2 | 5 | 2 | 115 |
+| last180d | 2026-05-04 | 12 | 103 | 2 | 6 | 3 | 183 |
+| 360d | 2025-11-05 | 13 | 106 | 2 | 9 | 3 | 187 |
+| last720d | 2024-11-10 | 18 | 136 | 2 | 24 | 10 | 365 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [packslip.sigstore.json](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/packslip.sigstore.json) | 17.1 KiB | `other` |
-| [timoni_0.36.0_checksums.txt](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_checksums.txt) | 788 B | `other` |
-| [timoni_0.36.0_darwin_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_darwin_amd64.tar.gz) | 20.9 MiB | `native/darwin/x64` |
-| [timoni_0.36.0_darwin_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_darwin_arm64.tar.gz) | 19.0 MiB | `native/darwin/arm64` |
-| [timoni_0.36.0_linux_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_linux_amd64.tar.gz) | 20.6 MiB | `native/linux/x64` |
-| [timoni_0.36.0_linux_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_linux_arm64.tar.gz) | 18.2 MiB | `native/linux/arm64` |
-| [timoni_0.36.0_provenance.intoto.jsonl](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_provenance.intoto.jsonl) | 22.1 KiB | `other` |
-| [timoni_0.36.0_sbom.spdx.json](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_sbom.spdx.json) | 532.0 KiB | `other` |
-| [timoni_0.36.0_source_code.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_source_code.tar.gz) | 1.3 MiB | `native/unknown` |
-| [timoni_0.36.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_windows_amd64.zip) | 21.0 MiB | `native/win/x64` |
-| [timoni_0.36.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
+| [packslip.sigstore.json](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/packslip.sigstore.json) | 17.4 KiB | `other` |
+| [timoni_0.37.0_checksums.txt](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_checksums.txt) | 788 B | `other` |
+| [timoni_0.37.0_darwin_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_darwin_amd64.tar.gz) | 20.9 MiB | `native/darwin/x64` |
+| [timoni_0.37.0_darwin_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_darwin_arm64.tar.gz) | 19.0 MiB | `native/darwin/arm64` |
+| [timoni_0.37.0_linux_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_linux_amd64.tar.gz) | 20.6 MiB | `native/linux/x64` |
+| [timoni_0.37.0_linux_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_linux_arm64.tar.gz) | 18.2 MiB | `native/linux/arm64` |
+| [timoni_0.37.0_provenance.intoto.jsonl](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_provenance.intoto.jsonl) | 22.2 KiB | `other` |
+| [timoni_0.37.0_sbom.spdx.json](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_sbom.spdx.json) | 430.8 KiB | `other` |
+| [timoni_0.37.0_source_code.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_source_code.tar.gz) | 1.3 MiB | `native/unknown` |
+| [timoni_0.37.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_windows_amd64.zip) | 21.1 MiB | `native/win/x64` |
+| [timoni_0.37.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/timoni) 上共有 **19** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/timoni) 上共有 **19** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**16** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.36.0` | ✅ latest |
-| Nix unstable | `0.35.0` | ⚠️ outdated |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `0.36.0` | ⚠️ outdated |
 | Alpine edge | `0.23.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.35.0` | ⚠️ outdated |
 
@@ -91,4 +91,4 @@ timoni 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T03:24:15Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T03:09:05Z._

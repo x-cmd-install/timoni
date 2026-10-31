@@ -14,11 +14,11 @@ x install timoni
 
 ## Code insight
 
-Total: **35,689** lines of code across **221** files in the top 5 languages.
+Total: **36,010** lines of code across **222** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 28,790 | 5,351 | 4,961 | 211 |
+| Go | 29,111 | 5,409 | 5,014 | 212 |
 | Yaml | 6,073 | 17 | 12 | 5 |
 | Json | 266 | 0 | 0 | 2 |
 | Css | 192 | 11 | 46 | 1 |
@@ -32,53 +32,53 @@ Total: **35,689** lines of code across **221** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.36.0` (2026-10-21)
-- **Last commit**: 2026-10-21
+- **Latest**: `v0.37.0` (2026-10-30)
+- **Last commit**: 2026-10-30
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 2,022 · **Forks**: 90 · **Open issues**: 145 · **Contributors**: 36
+- **Stars**: 2,021 · **Forks**: 90 · **Open issues**: 145 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 419 · **Open PRs**: 3 · **Closed issues**: 113 · **Open issues**: 32 · **Commits**: 1182
+- **Releases**: 58 · **Merged PRs**: 422 · **Open PRs**: 2 · **Closed issues**: 114 · **Open issues**: 31 · **Commits**: 1190
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 2 | 1 | 1 | 1 | 6 |
-| last60d | 2026-08-31 | 2 | 9 | 2 | 2 | 1 | 15 |
-| 90d | 2026-08-01 | 8 | 59 | 3 | 4 | 3 | 110 |
-| last180d | 2026-05-03 | 11 | 100 | 3 | 5 | 4 | 178 |
-| 360d | 2025-11-04 | 12 | 103 | 3 | 8 | 4 | 182 |
-| last720d | 2024-11-09 | 17 | 134 | 3 | 23 | 11 | 357 |
+| 30d | 2026-10-01 | 2 | 5 | 0 | 1 | 0 | 11 |
+| last60d | 2026-09-01 | 3 | 12 | 1 | 3 | 0 | 20 |
+| 90d | 2026-08-02 | 9 | 60 | 2 | 5 | 2 | 115 |
+| last180d | 2026-05-04 | 12 | 103 | 2 | 6 | 3 | 183 |
+| 360d | 2025-11-05 | 13 | 106 | 2 | 9 | 3 | 187 |
+| last720d | 2024-11-10 | 18 | 136 | 2 | 24 | 10 | 365 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [packslip.sigstore.json](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/packslip.sigstore.json) | 17.1 KiB | `other` |
-| [timoni_0.36.0_checksums.txt](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_checksums.txt) | 788 B | `other` |
-| [timoni_0.36.0_darwin_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_darwin_amd64.tar.gz) | 20.9 MiB | `native/darwin/x64` |
-| [timoni_0.36.0_darwin_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_darwin_arm64.tar.gz) | 19.0 MiB | `native/darwin/arm64` |
-| [timoni_0.36.0_linux_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_linux_amd64.tar.gz) | 20.6 MiB | `native/linux/x64` |
-| [timoni_0.36.0_linux_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_linux_arm64.tar.gz) | 18.2 MiB | `native/linux/arm64` |
-| [timoni_0.36.0_provenance.intoto.jsonl](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_provenance.intoto.jsonl) | 22.1 KiB | `other` |
-| [timoni_0.36.0_sbom.spdx.json](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_sbom.spdx.json) | 532.0 KiB | `other` |
-| [timoni_0.36.0_source_code.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_source_code.tar.gz) | 1.3 MiB | `native/unknown` |
-| [timoni_0.36.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_windows_amd64.zip) | 21.0 MiB | `native/win/x64` |
-| [timoni_0.36.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.36.0/timoni_0.36.0_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
+| [packslip.sigstore.json](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/packslip.sigstore.json) | 17.4 KiB | `other` |
+| [timoni_0.37.0_checksums.txt](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_checksums.txt) | 788 B | `other` |
+| [timoni_0.37.0_darwin_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_darwin_amd64.tar.gz) | 20.9 MiB | `native/darwin/x64` |
+| [timoni_0.37.0_darwin_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_darwin_arm64.tar.gz) | 19.0 MiB | `native/darwin/arm64` |
+| [timoni_0.37.0_linux_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_linux_amd64.tar.gz) | 20.6 MiB | `native/linux/x64` |
+| [timoni_0.37.0_linux_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_linux_arm64.tar.gz) | 18.2 MiB | `native/linux/arm64` |
+| [timoni_0.37.0_provenance.intoto.jsonl](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_provenance.intoto.jsonl) | 22.2 KiB | `other` |
+| [timoni_0.37.0_sbom.spdx.json](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_sbom.spdx.json) | 430.8 KiB | `other` |
+| [timoni_0.37.0_source_code.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_source_code.tar.gz) | 1.3 MiB | `native/unknown` |
+| [timoni_0.37.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_windows_amd64.zip) | 21.1 MiB | `native/win/x64` |
+| [timoni_0.37.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/timoni). **4** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/timoni). **2** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.36.0` | ✅ latest |
-| Nix unstable | `0.35.0` | ⚠️ outdated |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `0.36.0` | ⚠️ outdated |
 | Alpine edge | `0.23.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.35.0` | ⚠️ outdated |
 
@@ -91,4 +91,4 @@ Install metadata for timoni lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T03:24:14Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T03:09:05Z._
