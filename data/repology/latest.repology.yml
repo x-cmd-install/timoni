@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: timoni
+  visiblename: timoni
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Package manager for Kubernetes, powered by CUE and inspired by Helm
 - repo: alpine_edge
   subrepo: testing
   srcname: timoni
@@ -85,7 +92,7 @@
   visiblename: timoni
   version: 0.36.0
   origversion: 0.36.0-1
-  status: newest
+  status: outdated
   summary: Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
   maintainers:
     - seniordevops@aur
@@ -106,16 +113,9 @@
 - repo: homebrew
   srcname: timoni
   visiblename: timoni
-  version: 0.36.0
+  version: 0.37.0
   origversion: null
   status: newest
-  summary: Package manager for Kubernetes, powered by CUE and inspired by Helm
-- repo: homebrew
-  srcname: timoni
-  visiblename: timoni
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Package manager for Kubernetes, powered by CUE and inspired by Helm
 - repo: macports
   srcname: sysutils/timoni
@@ -123,7 +123,7 @@
   visiblename: timoni
   version: 0.36.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
   maintainers:
     - herbygillot@github
@@ -189,7 +189,7 @@
 - repo: nix_unstable
   srcname: timoni
   visiblename: timoni
-  version: 0.35.0
+  version: 0.36.0
   origversion: null
   status: outdated
   summary: Package manager for Kubernetes, powered by CUE and inspired by Helm
@@ -220,7 +220,7 @@
   subrepo: main
   binname: timoni
   visiblename: timoni
-  version: 0.36.0
+  version: 0.37.0
   origversion: null
   status: newest
   licenses:
