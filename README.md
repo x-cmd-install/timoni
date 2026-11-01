@@ -48,12 +48,12 @@ Total: **36,010** lines of code across **222** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 5 | 0 | 1 | 0 | 11 |
-| last60d | 2026-09-01 | 3 | 12 | 1 | 3 | 0 | 20 |
-| 90d | 2026-08-02 | 9 | 60 | 2 | 5 | 2 | 115 |
-| last180d | 2026-05-04 | 12 | 103 | 2 | 6 | 3 | 183 |
-| 360d | 2025-11-05 | 13 | 106 | 2 | 9 | 3 | 187 |
-| last720d | 2024-11-10 | 18 | 136 | 2 | 24 | 10 | 365 |
+| 30d | 2026-10-02 | 2 | 4 | 0 | 1 | 0 | 9 |
+| last60d | 2026-09-02 | 3 | 11 | 1 | 3 | 0 | 19 |
+| 90d | 2026-08-03 | 9 | 55 | 2 | 5 | 2 | 90 |
+| last180d | 2026-05-05 | 12 | 103 | 2 | 6 | 3 | 183 |
+| 360d | 2025-11-06 | 13 | 106 | 2 | 9 | 3 | 187 |
+| last720d | 2024-11-11 | 18 | 136 | 2 | 24 | 10 | 364 |
 
 ## Release assets
 
@@ -73,11 +73,11 @@ Total: **36,010** lines of code across **222** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/timoni). **2** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/timoni). **3** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.37.0` | ✅ latest |
 | Nix unstable | `0.36.0` | ⚠️ outdated |
 | Alpine edge | `0.23.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.35.0` | ⚠️ outdated |
@@ -91,4 +91,4 @@ Install metadata for timoni lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T03:09:05Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T03:04:06Z._
