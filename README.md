@@ -38,7 +38,7 @@ Total: **36,010** lines of code across **222** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,021 · **Forks**: 90 · **Open issues**: 145 · **Contributors**: 36
+- **Stars**: 2,022 · **Forks**: 91 · **Open issues**: 145 · **Contributors**: 36
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **36,010** lines of code across **222** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 4 | 0 | 1 | 0 | 9 |
-| last60d | 2026-09-04 | 3 | 11 | 1 | 3 | 0 | 19 |
-| 90d | 2026-08-05 | 8 | 52 | 2 | 5 | 2 | 90 |
-| last180d | 2026-05-07 | 12 | 103 | 2 | 6 | 3 | 183 |
-| 360d | 2025-11-08 | 13 | 106 | 2 | 9 | 3 | 187 |
-| last720d | 2024-11-13 | 18 | 136 | 2 | 24 | 10 | 364 |
+| 30d | 2026-10-05 | 2 | 4 | 0 | 1 | 0 | 9 |
+| last60d | 2026-09-05 | 3 | 11 | 1 | 3 | 0 | 19 |
+| 90d | 2026-08-06 | 8 | 50 | 2 | 5 | 2 | 90 |
+| last180d | 2026-05-08 | 12 | 103 | 2 | 6 | 3 | 183 |
+| 360d | 2025-11-09 | 13 | 106 | 2 | 9 | 3 | 187 |
+| last720d | 2024-11-14 | 18 | 136 | 2 | 24 | 10 | 364 |
 
 ## Release assets
 
@@ -73,7 +73,7 @@ Total: **36,010** lines of code across **222** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/timoni). **5** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/timoni). **6** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for timoni lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T04:30:50Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T03:48:36Z._
