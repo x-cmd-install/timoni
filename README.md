@@ -48,12 +48,12 @@ Total: **36,010** lines of code across **222** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 4 | 0 | 1 | 0 | 9 |
-| last60d | 2026-09-06 | 3 | 11 | 1 | 3 | 0 | 19 |
-| 90d | 2026-08-07 | 8 | 49 | 2 | 5 | 2 | 90 |
-| last180d | 2026-05-09 | 12 | 103 | 2 | 6 | 3 | 183 |
-| 360d | 2025-11-10 | 13 | 106 | 2 | 9 | 3 | 187 |
-| last720d | 2024-11-15 | 18 | 135 | 2 | 24 | 10 | 364 |
+| 30d | 2026-10-07 | 2 | 4 | 0 | 1 | 0 | 9 |
+| last60d | 2026-09-07 | 3 | 11 | 1 | 3 | 0 | 19 |
+| 90d | 2026-08-08 | 8 | 48 | 1 | 4 | 1 | 90 |
+| last180d | 2026-05-10 | 12 | 103 | 2 | 6 | 3 | 183 |
+| 360d | 2025-11-11 | 13 | 106 | 2 | 9 | 3 | 187 |
+| last720d | 2024-11-16 | 18 | 135 | 2 | 24 | 10 | 363 |
 
 ## Release assets
 
@@ -71,17 +71,6 @@ Total: **36,010** lines of code across **222** files in the top 5 languages.
 | [timoni_0.37.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_windows_amd64.zip) | 21.1 MiB | `native/win/x64` |
 | [timoni_0.37.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **19** distros on [repology.org](https://repology.org/project/timoni). **6** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.37.0` | ✅ latest |
-| Nix unstable | `0.36.0` | ⚠️ outdated |
-| Alpine edge | `0.23.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.37.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for timoni lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `timoni` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +80,4 @@ Install metadata for timoni lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T04:06:20Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T04:04:05Z._
