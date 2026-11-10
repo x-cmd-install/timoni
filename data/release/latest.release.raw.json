@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 17801,
       "digest": "sha256:52ce14a8a3a2f61c12e26e54c74d0ec7019594b177c601349af943acedb424bc",
-      "download_count": 68,
+      "download_count": 78,
       "created_at": "2026-10-30T12:24:07Z",
       "updated_at": "2026-10-30T12:24:08Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.37.0/packslip.sigstore.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 788,
       "digest": "sha256:375c50c4c82b5c34cec8f2417d4df476aeba6eafa6f0e4bfa532f7c020bbff86",
-      "download_count": 69,
+      "download_count": 84,
       "created_at": "2026-10-30T12:23:33Z",
       "updated_at": "2026-10-30T12:23:33Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 21569109,
       "digest": "sha256:bfbc3e7b6819a290bf92b2251defba325c0f7aeaeb4c46f1ed02614a4fe40ae7",
-      "download_count": 577,
+      "download_count": 622,
       "created_at": "2026-10-30T12:23:31Z",
       "updated_at": "2026-10-30T12:23:32Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 19081871,
       "digest": "sha256:ba2f67557eb5c345d57c8df474483c5115fff67f94f67b596ff02845901aa56f",
-      "download_count": 39,
+      "download_count": 47,
       "created_at": "2026-10-30T12:23:31Z",
       "updated_at": "2026-10-30T12:23:32Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_linux_arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1367107,
       "digest": "sha256:8d86203b291a6b3790d07c4c53658b1fb251c9f341c94f424afdede43b5d8959",
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2026-10-30T12:23:32Z",
       "updated_at": "2026-10-30T12:23:33Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_source_code.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 22088592,
       "digest": "sha256:6efff7300cd6cfae6098df913dd67d1d70d7cbbaf940acc0022ba69a7aca8175",
-      "download_count": 103,
+      "download_count": 107,
       "created_at": "2026-10-30T12:23:32Z",
       "updated_at": "2026-10-30T12:23:33Z",
       "browser_download_url": "https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_windows_amd64.zip"
