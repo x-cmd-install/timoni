@@ -48,12 +48,12 @@ x install timoni
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 4 | 2 | 1 | 1 | 9 |
-| last60d | 2026-09-13 | 3 | 10 | 2 | 3 | 1 | 18 |
-| 90d | 2026-08-14 | 6 | 36 | 3 | 3 | 1 | 69 |
-| last180d | 2026-05-16 | 12 | 103 | 4 | 6 | 4 | 183 |
-| 360d | 2025-11-17 | 13 | 106 | 4 | 8 | 4 | 187 |
-| last720d | 2024-11-22 | 18 | 135 | 4 | 24 | 9 | 357 |
+| 30d | 2026-10-14 | 2 | 4 | 2 | 1 | 1 | 9 |
+| last60d | 2026-09-14 | 3 | 10 | 2 | 3 | 1 | 18 |
+| 90d | 2026-08-15 | 6 | 35 | 3 | 3 | 1 | 69 |
+| last180d | 2026-05-17 | 12 | 103 | 4 | 6 | 4 | 183 |
+| 360d | 2025-11-18 | 13 | 106 | 4 | 8 | 4 | 187 |
+| last720d | 2024-11-23 | 18 | 135 | 4 | 24 | 9 | 357 |
 
 ## Release 资产
 
@@ -73,12 +73,12 @@ x install timoni
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/timoni) 上共有 **19** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**12** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/timoni) 上共有 **19** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Homebrew | `0.37.0` | ✅ latest |
-| Nix unstable | `0.36.0` | ⚠️ outdated |
+| Nix unstable | `0.37.0` | ✅ latest |
 | Alpine edge | `0.23.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.37.0` | ✅ latest |
 
@@ -91,4 +91,4 @@ timoni 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261112.yml` · 2026-11-12T04:48:13Z._
+_数据快照: `data/card/261113.yml` · 2026-11-13T03:59:08Z._
