@@ -1,36 +1,3 @@
-- repo: nix_stable_24_11
-  srcname: timoni
-  visiblename: timoni
-  version: 0.22.1
-  origversion: null
-  status: outdated
-  summary: Package manager for Kubernetes, powered by CUE and inspired by Helm
-  maintainers:
-    - votava@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: timoni
-  visiblename: timoni
-  version: 0.24.0
-  origversion: null
-  status: outdated
-  summary: Package manager for Kubernetes, powered by CUE and inspired by Helm
-  maintainers:
-    - votava@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: timoni
-  visiblename: timoni
-  version: 0.25.2
-  origversion: null
-  status: outdated
-  summary: Package manager for Kubernetes, powered by CUE and inspired by Helm
-  maintainers:
-    - votava@gmail.com
-  licenses:
-    - Apache-2.0
 - repo: aur
   srcname: timoni
   binname: timoni
@@ -43,6 +10,22 @@
     - seniordevops@aur
   licenses:
     - Apache 2
+- repo: altsisyphus
+  srcname: timoni
+  binnames:
+    - timoni
+    - timoni-debuginfo
+  visiblename: timoni
+  version: 0.35.0
+  origversion: 0.35.0-alt1
+  status: outdated
+  summary: Package manager for Kubernetes, powered by CUE and inspired by Helm
+  maintainers:
+    - fl0pp5@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Tools
 - repo: alpine_edge
   subrepo: testing
   srcname: timoni
@@ -108,22 +91,6 @@
     - folliekazetani@protonmail.com
   licenses:
     - Apache-2.0
-- repo: altsisyphus
-  srcname: timoni
-  binnames:
-    - timoni
-    - timoni-debuginfo
-  visiblename: timoni
-  version: 0.35.0
-  origversion: 0.35.0-alt1
-  status: outdated
-  summary: Package manager for Kubernetes, powered by CUE and inspired by Helm
-  maintainers:
-    - fl0pp5@altlinux.org
-  licenses:
-    - Apache-2.0
-  categories:
-    - Development/Tools
 - repo: aur
   srcname: timoni-bin
   binname: timoni-bin
@@ -175,6 +142,39 @@
     - votava@gmail.com
   licenses:
     - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: timoni
+  visiblename: timoni
+  version: 0.22.1
+  origversion: null
+  status: outdated
+  summary: Package manager for Kubernetes, powered by CUE and inspired by Helm
+  maintainers:
+    - votava@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: timoni
+  visiblename: timoni
+  version: 0.24.0
+  origversion: null
+  status: outdated
+  summary: Package manager for Kubernetes, powered by CUE and inspired by Helm
+  maintainers:
+    - votava@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: timoni
+  visiblename: timoni
+  version: 0.25.2
+  origversion: null
+  status: outdated
+  summary: Package manager for Kubernetes, powered by CUE and inspired by Helm
+  maintainers:
+    - votava@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: timoni
   visiblename: timoni
@@ -189,9 +189,9 @@
 - repo: nix_unstable
   srcname: timoni
   visiblename: timoni
-  version: 0.36.0
+  version: 0.37.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Package manager for Kubernetes, powered by CUE and inspired by Helm
   maintainers:
     - votava@gmail.com
