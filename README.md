@@ -48,12 +48,12 @@ Total: **36,010** lines of code across **222** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 3 | 5 | 1 | 1 | 5 |
-| last60d | 2026-09-24 | 3 | 8 | 5 | 2 | 1 | 11 |
-| 90d | 2026-08-25 | 4 | 17 | 6 | 3 | 1 | 22 |
-| last180d | 2026-05-27 | 12 | 103 | 7 | 6 | 4 | 183 |
-| 360d | 2025-11-28 | 13 | 106 | 7 | 8 | 4 | 187 |
-| last720d | 2024-12-03 | 18 | 134 | 7 | 22 | 8 | 355 |
+| 30d | 2026-10-25 | 1 | 3 | 5 | 1 | 1 | 5 |
+| last60d | 2026-09-25 | 3 | 8 | 5 | 2 | 1 | 11 |
+| 90d | 2026-08-26 | 4 | 16 | 6 | 3 | 1 | 22 |
+| last180d | 2026-05-28 | 12 | 103 | 7 | 6 | 4 | 183 |
+| 360d | 2025-11-29 | 13 | 106 | 7 | 8 | 4 | 187 |
+| last720d | 2024-12-04 | 18 | 134 | 7 | 22 | 8 | 354 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for timoni lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T04:37:51Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T07:30:14Z._
