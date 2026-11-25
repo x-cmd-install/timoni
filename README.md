@@ -14,11 +14,11 @@ x install timoni
 
 ## Code insight
 
-Total: **36,010** lines of code across **222** files in the top 5 languages.
+Total: **36,034** lines of code across **222** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 29,111 | 5,409 | 5,014 | 212 |
+| Go | 29,135 | 5,409 | 5,017 | 212 |
 | Yaml | 6,073 | 17 | 12 | 5 |
 | Json | 266 | 0 | 0 | 2 |
 | Css | 192 | 11 | 46 | 1 |
@@ -33,27 +33,27 @@ Total: **36,010** lines of code across **222** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.37.0` (2026-10-30)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-24
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 2,027 · **Forks**: 95 · **Open issues**: 146 · **Contributors**: 36
+- **Stars**: 2,027 · **Forks**: 94 · **Open issues**: 146 · **Contributors**: 37
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 422 · **Open PRs**: 7 · **Closed issues**: 114 · **Open issues**: 32 · **Commits**: 1190
+- **Releases**: 58 · **Merged PRs**: 424 · **Open PRs**: 6 · **Closed issues**: 115 · **Open issues**: 31 · **Commits**: 1194
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 3 | 5 | 1 | 1 | 5 |
-| last60d | 2026-09-25 | 3 | 8 | 5 | 2 | 1 | 11 |
-| 90d | 2026-08-26 | 4 | 16 | 6 | 3 | 1 | 22 |
-| last180d | 2026-05-28 | 12 | 103 | 7 | 6 | 4 | 183 |
-| 360d | 2025-11-29 | 13 | 106 | 7 | 8 | 4 | 187 |
-| last720d | 2024-12-04 | 18 | 134 | 7 | 22 | 8 | 354 |
+| 30d | 2026-10-26 | 1 | 5 | 4 | 2 | 0 | 7 |
+| last60d | 2026-09-26 | 3 | 10 | 4 | 3 | 0 | 13 |
+| 90d | 2026-08-27 | 4 | 18 | 5 | 4 | 0 | 24 |
+| last180d | 2026-05-29 | 12 | 105 | 6 | 7 | 3 | 185 |
+| 360d | 2025-11-30 | 13 | 108 | 6 | 9 | 3 | 189 |
+| last720d | 2024-12-05 | 18 | 136 | 6 | 23 | 7 | 358 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for timoni lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T07:30:14Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T05:59:07Z._
