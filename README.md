@@ -14,11 +14,11 @@ x install timoni
 
 ## Code insight
 
-Total: **36,034** lines of code across **222** files in the top 5 languages.
+Total: **36,043** lines of code across **222** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 29,135 | 5,409 | 5,017 | 212 |
+| Go | 29,144 | 5,413 | 5,017 | 212 |
 | Yaml | 6,073 | 17 | 12 | 5 |
 | Json | 266 | 0 | 0 | 2 |
 | Css | 192 | 11 | 46 | 1 |
@@ -32,8 +32,8 @@ Total: **36,034** lines of code across **222** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.37.0` (2026-10-30)
-- **Last commit**: 2026-11-24
+- **Latest**: `v0.38.0` (2026-11-25)
+- **Last commit**: 2026-11-25
 - **Assets in release**: 11
 
 ## Popularity
@@ -42,45 +42,34 @@ Total: **36,034** lines of code across **222** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 424 · **Open PRs**: 6 · **Closed issues**: 115 · **Open issues**: 31 · **Commits**: 1194
+- **Releases**: 59 · **Merged PRs**: 425 · **Open PRs**: 3 · **Closed issues**: 115 · **Open issues**: 31 · **Commits**: 1198
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 5 | 4 | 2 | 0 | 7 |
-| last60d | 2026-09-26 | 3 | 10 | 4 | 3 | 0 | 13 |
-| 90d | 2026-08-27 | 4 | 18 | 5 | 4 | 0 | 24 |
-| last180d | 2026-05-29 | 12 | 105 | 6 | 7 | 3 | 185 |
-| 360d | 2025-11-30 | 13 | 108 | 6 | 9 | 3 | 189 |
-| last720d | 2024-12-05 | 18 | 136 | 6 | 23 | 7 | 358 |
+| 30d | 2026-10-27 | 2 | 6 | 1 | 2 | 0 | 10 |
+| last60d | 2026-09-27 | 4 | 10 | 1 | 3 | 0 | 16 |
+| 90d | 2026-08-28 | 5 | 19 | 2 | 4 | 0 | 27 |
+| last180d | 2026-05-30 | 13 | 106 | 3 | 7 | 3 | 188 |
+| 360d | 2025-12-01 | 14 | 109 | 3 | 9 | 3 | 192 |
+| last720d | 2024-12-06 | 19 | 137 | 3 | 23 | 7 | 362 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [packslip.sigstore.json](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/packslip.sigstore.json) | 17.4 KiB | `other` |
-| [timoni_0.37.0_checksums.txt](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_checksums.txt) | 788 B | `other` |
-| [timoni_0.37.0_darwin_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_darwin_amd64.tar.gz) | 20.9 MiB | `native/darwin/x64` |
-| [timoni_0.37.0_darwin_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_darwin_arm64.tar.gz) | 19.0 MiB | `native/darwin/arm64` |
-| [timoni_0.37.0_linux_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_linux_amd64.tar.gz) | 20.6 MiB | `native/linux/x64` |
-| [timoni_0.37.0_linux_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_linux_arm64.tar.gz) | 18.2 MiB | `native/linux/arm64` |
-| [timoni_0.37.0_provenance.intoto.jsonl](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_provenance.intoto.jsonl) | 22.2 KiB | `other` |
-| [timoni_0.37.0_sbom.spdx.json](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_sbom.spdx.json) | 430.8 KiB | `other` |
-| [timoni_0.37.0_source_code.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_source_code.tar.gz) | 1.3 MiB | `native/unknown` |
-| [timoni_0.37.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_windows_amd64.zip) | 21.1 MiB | `native/win/x64` |
-| [timoni_0.37.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
-
-## Distribution status
-
-Reported by **19** distros on [repology.org](https://repology.org/project/timoni). **7** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.37.0` | ✅ latest |
-| Nix unstable | `0.37.0` | ✅ latest |
-| Alpine edge | `0.23.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.37.0` | ✅ latest |
+| [packslip.sigstore.json](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/packslip.sigstore.json) | 17.1 KiB | `other` |
+| [timoni_0.38.0_checksums.txt](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_checksums.txt) | 788 B | `other` |
+| [timoni_0.38.0_darwin_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_darwin_amd64.tar.gz) | 21.9 MiB | `native/darwin/x64` |
+| [timoni_0.38.0_darwin_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_darwin_arm64.tar.gz) | 19.9 MiB | `native/darwin/arm64` |
+| [timoni_0.38.0_linux_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_linux_amd64.tar.gz) | 21.5 MiB | `native/linux/x64` |
+| [timoni_0.38.0_linux_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_linux_arm64.tar.gz) | 19.0 MiB | `native/linux/arm64` |
+| [timoni_0.38.0_provenance.intoto.jsonl](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_provenance.intoto.jsonl) | 21.9 KiB | `other` |
+| [timoni_0.38.0_sbom.spdx.json](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_sbom.spdx.json) | 432.0 KiB | `other` |
+| [timoni_0.38.0_source_code.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_source_code.tar.gz) | 1.3 MiB | `native/unknown` |
+| [timoni_0.38.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_windows_amd64.zip) | 22.0 MiB | `native/win/x64` |
+| [timoni_0.38.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_windows_arm64.zip) | 19.2 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -91,4 +80,4 @@ Install metadata for timoni lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T05:59:07Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T05:53:09Z._

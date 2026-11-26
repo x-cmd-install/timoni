@@ -14,11 +14,11 @@ x install timoni
 
 ## 代码洞察
 
-合计: **36,034** 行代码（覆盖前 5 种语言、共 **222** 个文件）。
+合计: **36,043** 行代码（覆盖前 5 种语言、共 **222** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 29,135 | 5,409 | 5,017 | 212 |
+| Go | 29,144 | 5,413 | 5,017 | 212 |
 | Yaml | 6,073 | 17 | 12 | 5 |
 | Json | 266 | 0 | 0 | 2 |
 | Css | 192 | 11 | 46 | 1 |
@@ -32,8 +32,8 @@ x install timoni
 
 ## 发布
 
-- **最新版本**: `v0.37.0` (2026-10-30)
-- **最近提交**: 2026-11-24
+- **最新版本**: `v0.38.0` (2026-11-25)
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 11 个
 
 ## 流行度
@@ -42,45 +42,34 @@ x install timoni
 
 ## 累计统计
 
-- **发布数**: 58 · **已合并 PR**: 424 · **开放 PR**: 6 · **已关闭 issue**: 115 · **开放 issue**: 31 · **提交数**: 1194
+- **发布数**: 59 · **已合并 PR**: 425 · **开放 PR**: 3 · **已关闭 issue**: 115 · **开放 issue**: 31 · **提交数**: 1198
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 5 | 4 | 2 | 0 | 7 |
-| last60d | 2026-09-26 | 3 | 10 | 4 | 3 | 0 | 13 |
-| 90d | 2026-08-27 | 4 | 18 | 5 | 4 | 0 | 24 |
-| last180d | 2026-05-29 | 12 | 105 | 6 | 7 | 3 | 185 |
-| 360d | 2025-11-30 | 13 | 108 | 6 | 9 | 3 | 189 |
-| last720d | 2024-12-05 | 18 | 136 | 6 | 23 | 7 | 358 |
+| 30d | 2026-10-27 | 2 | 6 | 1 | 2 | 0 | 10 |
+| last60d | 2026-09-27 | 4 | 10 | 1 | 3 | 0 | 16 |
+| 90d | 2026-08-28 | 5 | 19 | 2 | 4 | 0 | 27 |
+| last180d | 2026-05-30 | 13 | 106 | 3 | 7 | 3 | 188 |
+| 360d | 2025-12-01 | 14 | 109 | 3 | 9 | 3 | 192 |
+| last720d | 2024-12-06 | 19 | 137 | 3 | 23 | 7 | 362 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [packslip.sigstore.json](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/packslip.sigstore.json) | 17.4 KiB | `other` |
-| [timoni_0.37.0_checksums.txt](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_checksums.txt) | 788 B | `other` |
-| [timoni_0.37.0_darwin_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_darwin_amd64.tar.gz) | 20.9 MiB | `native/darwin/x64` |
-| [timoni_0.37.0_darwin_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_darwin_arm64.tar.gz) | 19.0 MiB | `native/darwin/arm64` |
-| [timoni_0.37.0_linux_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_linux_amd64.tar.gz) | 20.6 MiB | `native/linux/x64` |
-| [timoni_0.37.0_linux_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_linux_arm64.tar.gz) | 18.2 MiB | `native/linux/arm64` |
-| [timoni_0.37.0_provenance.intoto.jsonl](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_provenance.intoto.jsonl) | 22.2 KiB | `other` |
-| [timoni_0.37.0_sbom.spdx.json](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_sbom.spdx.json) | 430.8 KiB | `other` |
-| [timoni_0.37.0_source_code.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_source_code.tar.gz) | 1.3 MiB | `native/unknown` |
-| [timoni_0.37.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_windows_amd64.zip) | 21.1 MiB | `native/win/x64` |
-| [timoni_0.37.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.37.0/timoni_0.37.0_windows_arm64.zip) | 18.3 MiB | `native/win/arm64` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/timoni) 上共有 **19** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.37.0` | ✅ latest |
-| Nix unstable | `0.37.0` | ✅ latest |
-| Alpine edge | `0.23.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.37.0` | ✅ latest |
+| [packslip.sigstore.json](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/packslip.sigstore.json) | 17.1 KiB | `other` |
+| [timoni_0.38.0_checksums.txt](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_checksums.txt) | 788 B | `other` |
+| [timoni_0.38.0_darwin_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_darwin_amd64.tar.gz) | 21.9 MiB | `native/darwin/x64` |
+| [timoni_0.38.0_darwin_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_darwin_arm64.tar.gz) | 19.9 MiB | `native/darwin/arm64` |
+| [timoni_0.38.0_linux_amd64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_linux_amd64.tar.gz) | 21.5 MiB | `native/linux/x64` |
+| [timoni_0.38.0_linux_arm64.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_linux_arm64.tar.gz) | 19.0 MiB | `native/linux/arm64` |
+| [timoni_0.38.0_provenance.intoto.jsonl](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_provenance.intoto.jsonl) | 21.9 KiB | `other` |
+| [timoni_0.38.0_sbom.spdx.json](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_sbom.spdx.json) | 432.0 KiB | `other` |
+| [timoni_0.38.0_source_code.tar.gz](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_source_code.tar.gz) | 1.3 MiB | `native/unknown` |
+| [timoni_0.38.0_windows_amd64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_windows_amd64.zip) | 22.0 MiB | `native/win/x64` |
+| [timoni_0.38.0_windows_arm64.zip](https://github.com/stefanprodan/timoni/releases/download/v0.38.0/timoni_0.38.0_windows_arm64.zip) | 19.2 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -91,4 +80,4 @@ timoni 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T05:59:07Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T05:53:10Z._
